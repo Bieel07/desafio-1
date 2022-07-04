@@ -15,9 +15,9 @@ sua fonte, e isso tem um limite de 6 "#"</p>
 
 
 ### Parágrafo - Quebra de Linha 
-<p>Para fazer um <strong>parágrafo<strong> basta fazer "< p >" (sem os espaços)<br>
+<p>Para fazer um <strong>parágrafo</strong> basta fazer "< p >" (sem os espaços)<br>
  antes de iniciar seu texto, e para fechar "< / P >" (sem os espaços)</p>
-<p> e a **quebra de linha** é bem parecida. Quebra de linha seria </p>
+<p> e a <strong>quebra de linha</strong> é bem parecida. Quebra de linha seria </p>
 <p>escrever<br>
 tipo<br>
 assim</p>
